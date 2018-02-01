@@ -1,0 +1,16 @@
+#Jetbrains IDE
+/.idea/*
+!.idea/runConfigurations/*
+*.iml
+
+
+# Ignore all logfiles, tempfiles and build directories
+/bin/
+/log/
+/tmp/
+/coverage/
+!/log/.keep
+!/tmp/.keep
+!/bin/.keep
+
+!.gitignore
